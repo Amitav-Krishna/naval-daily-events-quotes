@@ -3,7 +3,7 @@ Fetches ten recent news events that happened today and uses Google Gemini LLM to
 
 ## Tasks
 ### MVP
-- [ ] Use google gemini with google search grounding to get 10 events that happened today (Grounding)[https://ai.google.dev/gemini-api/docs/grounding?lang=python]
+- [X] Use google gemini with google search grounding to get 10 events that happened today (Grounding)[https://ai.google.dev/gemini-api/docs/grounding?lang=python]
 - [ ] Create a prompt for gemini to generate relvant naval quotes using the events https://aistudio.google.com/prompts/new_chat
 - [ ] create simple frontend to access this script
 - [ ] deploy application to be publically available
